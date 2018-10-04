@@ -29,3 +29,6 @@ Cada linha de cada caso de teste deve conter uma treap com os nós especificados
 
 (((a/3)b/6(c/4))d/7((e/2)f/5(g/1)))
 ```
+
+## Link para a submissão
+[aqui](https://www.urionlinejudge.com.br/judge/pt/problems/view/1675)
